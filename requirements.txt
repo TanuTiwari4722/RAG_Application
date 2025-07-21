@@ -9,6 +9,7 @@ seaborn
 matplotlib
 streamlit==1.35.0
 sentence-transformers==2.2.2
+huggingface_hub==0.14.1
 transformers==4.36.2
 torch==2.0.1
 faiss-cpu==1.7.4
